@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>resources/filefind.png</file>
+        <file>resources/filenew.png</file>
+        <file>resources/fileopen.png</file>
+        <file>resources/fileprint.png</file>
+        <file>resources/filesave.png</file>
+        <file>resources/filequickprint.png</file>
+        <file>resources/filesaveas.png</file>
+        <file>resources/fileview-preview.png</file>
+    </qresource>
+</RCC>
