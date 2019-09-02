@@ -6,3 +6,13 @@ It shows the steps of the [Bowyer-Watson algrotihm](https://en.wikipedia.org/wik
 
 ## About Delaunay triangulation
 You can learn more about it [here](https://en.wikipedia.org/wiki/Delaunay_triangulation).
+
+## Showcase
+Program allows you to generate random points on a 2D plane, run
+the animation showing Delaunay triangulation, and finally export your results.
+
+<img src="./gifs/animation.showcase.gif">
+
+You can also manually create the points on the plane.
+
+<img src="./gifs/interactivity.showcase.gif">
